@@ -81,7 +81,7 @@ tryhackme-cheatsheets/
 ## 🔗 Connect
 
 - 🌐 GitHub: [4n0nyrn0u5](https://github.com/4n0nyrn0u5)
-- 🏆 TryHackMe: [anonyrnous](https://tryhackme.com/p/4n0nyrn0u5)
+- 🏆 TryHackMe: [anonyrnous](https://tryhackme.com/p/anonyrnous)
 
 ---
 
